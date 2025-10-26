@@ -2,6 +2,8 @@
 
 Landing page elegante para o serviço unificado de emergências.
 
+![Preview da Landing Page](./preview.png)
+
 ## 📱 Sobre
 
 Página web minimalista que conecta os usuários diretamente aos serviços de emergência através de um único ponto de contato (UNIFICADOR).
