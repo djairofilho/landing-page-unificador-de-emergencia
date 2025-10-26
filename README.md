@@ -2,7 +2,7 @@
 
 Landing page elegante para o serviço unificado de emergências.
 
-![Preview da Landing Page](./preview.png)
+![Preview da Landing Page](public/landingpage.png)
 
 🌐 **Site em Produção**: [https://landing-page-unificador-de-emergenc.vercel.app/](https://landing-page-unificador-de-emergenc.vercel.app/)
 
